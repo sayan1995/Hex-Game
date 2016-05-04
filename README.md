@@ -8,3 +8,5 @@ Consists of:
     2. AI easy
     
     3. AI normal
+    
+To run: Run NewJframe3
