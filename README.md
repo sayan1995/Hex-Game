@@ -1,6 +1,10 @@
 # Hex-Game
 Hex Game made using Java Fx.
-Has 3 modes:
+
+Consists of:
+
     1. 2 Player
+    
     2. AI easy
+    
     3. AI normal
